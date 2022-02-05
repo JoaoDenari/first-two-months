@@ -23,20 +23,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		n = 0
 		resto = 0
 		p = 0
-
-		
-Insira o número a ser analisado: 7
-Este número é primo!
-Insira o número a ser analisado: 6
-Este número não é primo!
-Insira o número a ser analisado: 1
-Este número é primo!
-Insira o número a ser analisado: 2
-Este número é primo!
-Insira o número a ser analisado: 3
-Este número é primo!
-Insira o número a ser analisado: 4
-Este número não é primo!
-Insira o número a ser analisado: 41
-Este número é primo!
-Insira o número a ser analisado: 
